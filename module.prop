@@ -1,0 +1,6 @@
+id=userdebug-without-debug
+name=Userdebug Without Debug
+version=v1
+versionCode=1
+author=Vita Yuzu
+description=Remove userdebug props on LineageOS to make Android Studio {App,Layout} Inspector works normally
